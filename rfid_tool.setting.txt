@@ -1,0 +1,4 @@
+IPC="192.168.2.135"
+xampp="C:/xampp"
+user_list="C:/xampp/htdocs/rfid_tool/user_list.xlsx"
+TID="5231"
